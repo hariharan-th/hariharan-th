@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hariharan T
+# Hi 👋, I'm Hariharan 
 
 🎓 B.E. Electronics and Communication Engineering  
 🔬 Research-oriented | Embedded Systems | IoT | Applied Machine Learning  
