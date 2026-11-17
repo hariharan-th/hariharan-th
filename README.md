@@ -24,16 +24,48 @@
 - Currently learning embedded AI and signal processing
 - Open to research collaboration and engineering projects
 
-## Technologies
+## Skills & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C and C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat&logo=git&logoColor=white" alt="Git and GitHub">
-</p>
+**Programming**  
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+
+**Embedded Platforms**  
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32">  
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32">  
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">  
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+
+**Hardware Design & Simulation**  
+<img src="https://img.shields.io/badge/Quartus-0071C5?style=flat&logo=intel&logoColor=white" alt="Quartus">  
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white" alt="KiCad">  
+<img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat" alt="Altium Designer">  
+<img src="https://img.shields.io/badge/B2%20Spice-4B5563?style=flat" alt="B2 Spice">  
+<img src="https://img.shields.io/badge/ANSYS-FFB71B?style=flat" alt="ANSYS">
+
+**CAD & Engineering Tools**  
+<img src="https://img.shields.io/badge/CATIA%20V5-005386?style=flat" alt="CATIA V5">  
+<img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=flat&logo=autodesk&logoColor=white" alt="Autodesk Fusion 360">  
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat" alt="AutoCAD">  
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB">  
+<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE">  
+<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE">
+
+**Embedded Design & Interfaces**  
+<img src="https://img.shields.io/badge/Microcontroller%20Programming-4C6EF5?style=flat" alt="Microcontroller Programming">  
+<img src="https://img.shields.io/badge/Sensor%20Interfacing%20%26%20Calibration-2F9E44?style=flat" alt="Sensor Interfacing & Calibration">  
+<img src="https://img.shields.io/badge/GPIO-7950F2?style=flat" alt="GPIO">  
+<img src="https://img.shields.io/badge/UART-7950F2?style=flat" alt="UART">  
+<img src="https://img.shields.io/badge/I2C-7950F2?style=flat" alt="I2C">  
+<img src="https://img.shields.io/badge/SPI-7950F2?style=flat" alt="SPI">
+
+**Communications & Signal Processing**  
+<img src="https://img.shields.io/badge/Digital%20Communication-0B7285?style=flat" alt="Digital Communication">  
+<img src="https://img.shields.io/badge/Signal%20Processing-0B7285?style=flat" alt="Signal Processing">  
+<img src="https://img.shields.io/badge/Free--Space%20Optical%20(FSO)-0B7285?style=flat" alt="Free-Space Optical (FSO)">  
+<img src="https://img.shields.io/badge/Wireless%20Communication-0B7285?style=flat&logo=wifi&logoColor=white" alt="Wireless Communication">
+
+**Engineering & professional skills:** Electronic circuit design, 3D part modeling, assembly design, engineering drawings, product testing, hardware debugging, requirements understanding, technical communication, product demonstrations, problem solving, system-level understanding, and customer-oriented solutions.
 
 ## Selected Projects
 
