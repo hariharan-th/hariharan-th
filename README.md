@@ -59,8 +59,8 @@
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hariharan-th&show_icons=true&hide_border=true&theme=default" alt="Hariharan's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-th&layout=compact&hide_border=true&theme=default" alt="Most used languages on Hariharan's public repositories">
+  <a href="https://github.com/hariharan-th"><img src="https://img.shields.io/github/followers/hariharan-th?label=Followers&style=flat&logo=github" alt="GitHub followers"></a>&nbsp;&nbsp;
+  <a href="https://github.com/hariharan-th"><img src="https://img.shields.io/github/stars/hariharan-th?affiliations=OWNER&label=Stars&style=flat&logo=github" alt="Stars across owned repositories"></a>
 </p>
 
 <p align="center">
