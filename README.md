@@ -27,7 +27,7 @@
 ## Skills & Technologies
 
 <p><strong>Programming</strong><br>
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">&nbsp;&nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 </p>
 <p><strong>Embedded Platforms</strong><br>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32">&nbsp;&nbsp;<img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
