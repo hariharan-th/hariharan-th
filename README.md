@@ -44,7 +44,7 @@
 <p><strong>Communications & Signal Processing</strong><br>
 <img src="https://img.shields.io/badge/Digital%20Communication-0B7285?style=flat" alt="Digital Communication">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Signal%20Processing-0B7285?style=flat" alt="Signal Processing">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Free--Space%20Optical%20(FSO)-0B7285?style=flat" alt="Free-Space Optical (FSO)">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Wireless%20Communication-0B7285?style=flat&logo=wifi&logoColor=white" alt="Wireless Communication">
 </p>
-**Engineering & professional skills:** Electronic circuit design, 3D part modeling, assembly design, engineering drawings, product testing, hardware debugging, requirements understanding, technical communication, product demonstrations, problem solving, system-level understanding, and customer-oriented solutions.
+
 
 ## Selected Projects
 
